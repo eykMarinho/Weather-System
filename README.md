@@ -3,14 +3,12 @@
 ## O que é?
 Sistema que aplica climas diferentes para cada cidade do GTA San Andreas (Los Santos, San Fierro e Las Venturas) com detecção automática da localização do jogador usando áreas dinâmicas.
 
-## Instalação
-1. Instale o plugin streamer no servidor
-2. Copie `WeatherSystem.inc` para `pawno/include`
-3. Inclua no gamemode:
-```pawn
-#include <streamer>
-#include <WeatherSystem.inc>
-```
+## Dependencias
+### Streamer Plugin v2.9.6 v1.0.0
+- Download: [GitHub - samp-incognito/samp-streamer-plugin](https://github.com/samp-incognito/samp-streamer-plugin/releases)
+
+### YSI-Includes
+- Download: [GitHub - pawn-lang/YSI-Includes](https://github.com/pawn-lang/YSI-Includes)
 
 ## Funções Principais
 
