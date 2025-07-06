@@ -8,8 +8,15 @@ ____    __    ____  _______     ___   .___________. __    __   _______  .______
     \__/  \__/     |_______/__/     \__\  |__|     |__|  |__| |_______| | _| `._____|
                                                                                       
 */
-    //Natives
-/*
+
+                    ooooo      ooo       .o.       ooooooooooooo ooooo oooooo     oooo       .o.        .oooooo..o 
+                    `888b.     `8'      .888.      8'   888   `8 `888'  `888.     .8'       .888.      d8P'    `Y8 
+                    8 `88b.    8      .8"888.          888       888    `888.   .8'       .8"888.     Y88bo.      
+                    8   `88b.  8     .8' `888.         888       888     `888. .8'       .8' `888.     `"Y8888o.  
+                    8     `88b.8    .88ooo8888.        888       888      `888.8'       .88ooo8888.        `"Y88b 
+                    8       `888   .8'     `888.       888       888       `888'       .8'     `888.  oo     .d8P 
+                    o8o        `8  o88o     o8888o     o888o     o888o       `8'       o88o     o8888o 8""88888P'  
+
 		native SetCityWeather(city, weatherid);
 		native UpdatePlayerWeather(playerid);
 		native GetCityWeather(city);
