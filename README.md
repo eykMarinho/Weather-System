@@ -53,11 +53,38 @@ O sistema inclui 21 tipos de clima diferentes.
 
 Exemplos:
 ```pawn
-E_WEATHER_SUNNY         // Ensolarado
-E_WEATHER_RAINY         // Chuvoso
-E_WEATHER_FOGGY         // Neblina
-E_WEATHER_SANDSTORM     // Tempestade de Areia
-E_WEATHER_UNDERWATER    // Subaquático
+// Los Angeles (Los Santos)
+E_WEATHER_EXTRASUNNY = 0          // Extra Ensolarado
+E_WEATHER_SUNNY = 1               // Ensolarado
+E_WEATHER_EXTRASUNNY_SMOG = 2     // Extra Ensolarado com Poluição
+E_WEATHER_SUNNY_SMOG = 3          // Ensolarado com Poluição
+E_WEATHER_CLOUDY = 4              // Nublado
+
+// San Francisco (San Fierro)
+E_WEATHER_SUNNY_MILD = 5          // Ensolarado Ameno
+E_WEATHER_EXTRASUNNY_MILD = 6     // Extra Ensolarado Ameno
+E_WEATHER_CLOUDY_MILD = 7         // Nublado Ameno
+E_WEATHER_RAINY = 8               // Chuvoso
+E_WEATHER_FOGGY = 9               // Neblina
+
+// Las Vegas (Las Venturas)
+E_WEATHER_SUNNY_DRY = 10          // Ensolarado Seco
+E_WEATHER_EXTRASUNNY_DRY = 11     // Extra Ensolarado com Ondas de Calor
+E_WEATHER_CLOUDY_DRY = 12         // Nublado Seco
+
+// Campo
+E_WEATHER_EXTRASUNNY_COUNTRY = 13 // Extra Ensolarado Campo
+E_WEATHER_SUNNY_COUNTRY = 14      // Ensolarado Campo
+E_WEATHER_CLOUDY_COUNTRY = 15     // Nublado Campo
+E_WEATHER_RAINY_COUNTRY = 16      // Chuvoso Campo
+
+// Deserto
+E_WEATHER_EXTRASUNNY_DESERT = 17  // Extra Ensolarado Deserto
+E_WEATHER_SUNNY_DESERT = 18       // Ensolarado Deserto
+E_WEATHER_SANDSTORM = 19          // Tempestade de Areia
+
+// Especial
+E_WEATHER_UNDERWATER = 20         // Subaquático (Esverdeado, Nebuloso)
 ```
 
 ## Exemplo de Uso
