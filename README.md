@@ -34,7 +34,11 @@ GetCityName(city);
 // Obtém o numero de jogadores em uma cidade
 GetPlayersInCity(city); 
 ```
+## Demonstração
 
+Um vídeo demonstrativo do sistema está disponível no YouTube. Assista para ver o sistema em funcionamento e entender melhor como ele funciona na prática.
+
+[Assista ao vídeo demonstrativo no YouTube](https://www.youtube.com/watch?v=v_XVzD7FW7g)
 ## Cidades e Climas
 
 ### Cidades
