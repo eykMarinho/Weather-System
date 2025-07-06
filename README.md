@@ -1,4 +1,4 @@
-# Sistema de Clima Dinâmico para SA-MP
+#🫧 Sistema de Clima Dinâmico para SA-MP
 
 ## O que é?
 Sistema que aplica climas diferentes para cada cidade do GTA San Andreas (Los Santos, San Fierro e Las Venturas) com detecção automática da localização do jogador usando áreas dinâmicas.
@@ -32,6 +32,9 @@ GetClimaName(weatherid);
 
 // Obtém o nome da cidade
 GetCityName(city);
+
+// Obtém o numero de jogadores em uma cidade
+GetPlayersInCity(city); 
 ```
 
 ## Cidades e Climas
